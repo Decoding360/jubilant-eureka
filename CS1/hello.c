@@ -10,5 +10,8 @@
 
 int main(int argc, char **argv){
 
-    printf(")
+    printf("Hello world/n");
+
+    return 0;
+    
 }
